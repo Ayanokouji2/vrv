@@ -22,6 +22,8 @@ VRV Security is a web-based application designed for secure data management and 
 │   │   ├── App.js      # Main application file
 │   │   └── index.js    # Entry point for the React application
 │   └── package.json    # Frontend dependencies and scripts
+|__ index.html
+|__ package.json
 └── README.md           # Project documentation
 ```
 
@@ -30,7 +32,6 @@ VRV Security is a web-based application designed for secure data management and 
 ### Prerequisites
 
 - Node.js (v14 or higher)
-- MongoDB
 - npm or yarn
 
 ### Setup
