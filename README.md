@@ -42,7 +42,7 @@ VRV Security is a web-based application designed for secure data management and 
    cd vrvsecurity
    ```
 
-2. Install dependencies for both backend and frontend:
+2. Install dependencies for project:
 
    ```bash
    npm install
@@ -56,7 +56,7 @@ VRV Security is a web-based application designed for secure data management and 
      npm run dev
      ```
 
-5. Open your browser and navigate to `http://localhost:3000`.
+5. Open your browser and navigate to `http://localhost:5173`.
 
 ## Scripts
 
